@@ -1,4 +1,11 @@
-﻿using System;
+﻿/* 
+En este programa usamos do-while para el menú principal asegurando que se ejecute al menos una vez, 
+while para la captura con centinela ya que no sabíamos cuántos números ingresaría el usuario, 
+for para los recorridos de rangos fijos y tablas, y foreach para procesar los arreglos y listas 
+de forma limpia sin modificar índices manualmente.
+*/
+
+using System;
 using System.Collections.Generic;
 
 
